@@ -28,7 +28,6 @@ Alternatively, you can add the package directly to your `manifest.json` file loc
 ```json
 {
   "dependencies": {
-    "com.unity.package-manager-ui": "2.0.3",
     "com.nopnag.codecombiner": "https://github.com/cihanozcelik/CodeCombiner.git"
   }
 }
