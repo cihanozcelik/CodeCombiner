@@ -2,8 +2,8 @@
   "name": "com.nopnag.codecombiner",
   "version": "1.0.0",
   "displayName": "Code Combiner",
-  "description": "A Unity Editor tool to combine and copy code files.",
-  "unity": "2019.1.0f1",
+  "description": "A Unity Editor tool designed to combine and copy code files to the clipboard. It allows you to select multiple code files within your project, merge their contents, and copy the merged content to the clipboard for easy use—especially handy for pasting into tools like ChatGPT and other LLMs!",
+  "unity": "2019.1",
   "author": {
     "name": "Cihan Özçelik",
     "url": "https://github.com/cihanozcelik/CodeCombiner"
