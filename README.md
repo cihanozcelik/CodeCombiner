@@ -3,11 +3,14 @@
 
 Code Combiner is a Unity Editor tool designed to combine and copy code files to the clipboard. It allows you to select multiple code files within your project, merge their contents, and copy the merged content to the clipboard for easy use—especially handy for pasting into tools like ChatGPT and other LLMs!
 
+https://github.com/cihanozcelik/CodeCombiner/assets/4025567/69d5affa-a2ca-4871-b7bd-ea16ea30ab37
+
 ## Features
 
 - Select multiple code files from your Unity project.
 - Combine selected files into a single content.
 - Copy the combined content to the clipboard with a single click.
+- Adds the file names as comments at the top of each merged file.
 
 ## Installation
 
@@ -41,6 +44,10 @@ Alternatively, you can add the package directly to your `manifest.json` file loc
 4. The total number of selected files and lines will be displayed at the bottom of the window.
 5. Click the `Combine and Copy to Clipboard` button to merge the selected files and copy the combined content to the clipboard.
 6. Paste the combined content wherever you need it.
+
+## Note
+
+This tool is not optimized for very large codebases yet. Besides, ChatGPT doesn't accept more than around 4500 lines (100 characters per line cap) in my tests.
 
 ## License
 
