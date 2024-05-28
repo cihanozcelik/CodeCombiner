@@ -1,0 +1,19 @@
+{
+  "name": "com.nopnag.codecombiner",
+  "version": "1.0.0",
+  "displayName": "Code Combiner",
+  "description": "A Unity Editor tool to combine and copy code files.",
+  "unity": "2019.1.0f1",
+  "author": {
+    "name": "Cihan Özçelik",
+    "url": "https://github.com/cihanozcelik/CodeCombiner"
+  },
+  "keywords": [
+    "unity",
+    "editor",
+    "tool",
+    "code",
+    "combiner"
+  ],
+  "category": "Editor"
+}
