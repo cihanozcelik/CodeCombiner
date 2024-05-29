@@ -1,9 +1,8 @@
-
 # Code Combiner
 
 Code Combiner is a Unity Editor tool designed to combine and copy code files to the clipboard. It allows you to select multiple code files within your project, merge their contents, and copy the merged content to the clipboard for easy use—especially handy for pasting into tools like ChatGPT and other LLMs!
 
-https://github.com/cihanozcelik/CodeCombiner/assets/4025567/69d5affa-a2ca-4871-b7bd-ea16ea30ab37
+https://github.com/cihanozcelik/CodeCombiner/assets/4025567/8f89244d-10e6-4b73-87f4-ca73af84823f
 
 ## Features
 
